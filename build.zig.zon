@@ -1,7 +1,7 @@
 .{
     .name = "capy",
     .version = "0.4.0",
-    .minimum_zig_version = "0.13.0",
+    .minimum_zig_version = "0.14.0-dev.2577+271452d22",
     .dependencies = .{
         .@"zig-objc" = .{
             .url = "https://github.com/mitchellh/zig-objc/archive/362d12f4d91dfde84668e0befc5a8ca76659965a.zip",
